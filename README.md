@@ -247,7 +247,7 @@ final.reset_index(drop=True, inplace=True)
 
 #### 머신러닝을 이용한 불연성쓰레기양을 예측하는 최종모델 선정 및 생성
 
-![최종 모델](img/최종모델.png)
+![최종 모델](img/최종모델.png)
 
 
 ### 활용방안
